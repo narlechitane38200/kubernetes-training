@@ -4,6 +4,7 @@ metadata:
   name: pod-blue
   labels:
     app: web
+  namespace: production
 spec:
   containers:
   - name: simple-webapp-color
