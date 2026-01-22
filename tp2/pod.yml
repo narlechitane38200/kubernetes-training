@@ -8,4 +8,4 @@ spec:
     image: mmumshad/simple-webapp-color
     env:
       - name: APP_COLOR
-        value: "red
+        value: "red"
