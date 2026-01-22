@@ -1,7 +1,7 @@
 apiVersion: v1
 kind: Pod
 metadata:
-  name: simple-webapp-color
+  name: pod-red
   labels:
     app: web
 spec:
