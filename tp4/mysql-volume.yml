@@ -4,8 +4,8 @@ metadata:
   name: mysql-volume
 spec:
   containers:
-    - name: mysql-volume
-      image: mysql:8.0
+    - name: mysql
+      image: mysql
       env:
       - name: MYSQL_DATABASE
         value: eazytraining
